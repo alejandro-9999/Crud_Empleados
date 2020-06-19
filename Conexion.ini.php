@@ -1,4 +1,5 @@
 <?php
+session_start();
 function Conectar() {
 $host  ="localhost";
 $user = "root";
